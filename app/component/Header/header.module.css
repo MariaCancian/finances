@@ -1,0 +1,21 @@
+.header {
+    height: 100%;
+    background-color: #2a2929;
+    color: #dedede;
+    width: 15%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    overflow-y: auto;
+    padding: 1%;
+    
+}
+
+.header::-webkit-scrollbar {
+   display: none;
+  }
+
+.logo{
+margin-left: 4rem;
+}
+

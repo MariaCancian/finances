@@ -1,0 +1,23 @@
+.maindiv{
+    background-color: green;
+    width: 30%;
+    position: fixed;
+    bottom: 0;
+/*centralizar na tela*/
+    transform: translate(-50%, -50%);
+    left: 50%;
+
+    color: antiquewhite;
+    text-align: center;
+    border-radius: 10px;
+    padding: 10px;
+    height: 60px;
+}
+
+.erro{
+    background-color: red  !important;
+}
+
+.sucesso{
+    background-color: green !important;
+}

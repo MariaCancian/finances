@@ -1,0 +1,16 @@
+
+.textLink{
+    display: flex;
+    padding: 1rem 0.5rem;
+    align-items: center;
+    color: #dedede;
+   margin-left: 1rem;
+   border-radius: 20px;
+   justify-content: center;
+    }
+    
+    .textLink:hover{
+        background-color: #dfe7e0;
+        color: black;
+        transition: 0.4s;
+        }
